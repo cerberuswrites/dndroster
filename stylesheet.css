@@ -11,45 +11,9 @@
 }
 
 @font-face {
-    font-family: 'Bill Smith';
-    src: url('./fonts/BillSmith.woff2') format('woff2'),
-        url('./fonts/BillSmith.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Basting Brush';
-    src: url('./fonts/BastingBrush.woff2') format('woff2'),
-        url('./fonts/BastingBrush.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'Honuzima';
     src: url('./fonts/HonuzimaRegular.woff2') format('woff2'),
         url('./fonts/HonuzimaRegular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Qillsey Einstein';
-    src: url('./fonts/QillseyEinstein.woff2') format('woff2'),
-        url('./fonts/QillseyEinstein.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Randelles';
-    src: url('./fonts/RandellesDemoRegular.woff2') format('woff2'),
-        url('./fonts/RandellesDemoRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -557,6 +521,4 @@ white-space: pre-wrap;
 
 [property][mv-mode="edit"] .char-ability {
 max-height:550px !important;
-}
-
 }
